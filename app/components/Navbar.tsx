@@ -1,5 +1,3 @@
-// app/components/Navbar.tsx
-
 import React from "react";
 import { useTheme } from "../hooks/useTheme";
 
